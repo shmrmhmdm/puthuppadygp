@@ -1,0 +1,23 @@
+#logo-name{
+    text-shadow: 1px 1px 0px #ecc3c3, 2px 2px 0px #888888;
+}
+#logo{
+    border-radius: 10px;
+   
+}
+#nav{
+    /* background-color: rgb(114, 187, 235); */
+    background-image: linear-gradient(to right, rgb(28, 118, 202) , rgb(210, 233, 231));
+    opacity: .8;
+    margin-top: 20px;
+    padding: 2px;
+    font-family: cursive;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 30px;
+}
+.para{
+    text-align: justify;
+    padding: 20px;
+    background-image: linear-gradient(to right, rgb(108, 186, 223) , rgb(210, 233, 231));
+}
