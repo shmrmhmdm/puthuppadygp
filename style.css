@@ -1,3 +1,4 @@
+
 #logo-name{
     text-shadow: 1px 1px 0px #ecc3c3, 2px 2px 0px #888888;
     background-image: linear-gradient(to right, rgb(7, 50, 190) , rgb(12, 172, 92));
@@ -35,18 +36,48 @@
     text-align: justify;
     padding: 20px;
     /* background-image: linear-gradient(to right, rgb(108, 186, 223) , rgb(210, 233, 231)); */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color: #0c264e;
+    background: linear-gradient(to right, #abcfda , #92bfdb);
+    margin-left: 10px;
+    margin-right: 10px;
 }
-.ward{
+/* .ward{
     background-image: linear-gradient(to right, rgb(87, 148, 206) , rgb(210, 233, 231));
-}
-.card-container {
-    width: calc(100% / 7 - 1rem); /* Adjust spacing as needed */
-    margin-bottom: 1rem; /* Adjust spacing between rows as needed */
-  }
-.about{
+} */
+/* .card-container { */
+    /* width: calc(100% / 7 - 1rem); Adjust spacing as needed */
+    /* margin-bottom: 1rem; Adjust spacing between rows as needed */
+  /* } */
+/* .about{
     background-image: linear-gradient(to right, rgb(87, 148, 206) , rgb(210, 233, 231));
-}
+} */
 
 .navbar-nav .nav-link {
     color: white;
+  }
+  #banner-1{
+    text-align: center;
+    background: linear-gradient(to right, rgb(49, 184, 116) , rgb(33, 211, 57));
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+  
+  }
+  .card-img-top{
+    object-fit:fill;
+        
+  }
+  .card {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+}
+.card:hover {
+    transform: scale(1.1);
+  }
+  .footer{
+    background-image: linear-gradient(to right, #abcfda , #92bfdb);
+    text-align: center;
   }
