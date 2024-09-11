@@ -1,0 +1,41 @@
+
+#nav{
+    /* background-color: rgb(114, 187, 235); */
+    background-image: linear-gradient(to right, rgb(16, 110, 44) , rgb(210, 233, 231));
+    /* opacity: .8; */
+    margin-top: 5px;
+    padding: 2px;
+    font-family: cursive;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 30px;
+  
+}
+#logo{
+    border-radius: 10px;
+   
+}
+.navbar-nav .nav-link {
+    color: white;
+  }
+  .sec-pre{
+    background-image: linear-gradient(to right, rgb(32, 161, 184), rgb(16, 110, 44) );
+    padding: 2px;
+    margin: 10px;
+    margin-top: 80px;
+    border-radius: 20px;
+    img{
+        border-radius: 20px;
+    }
+  }
+  #pre-des{
+    float: right;
+  }
+  p{
+    color: white;
+    text-align: justify;
+  }
+ h4{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }

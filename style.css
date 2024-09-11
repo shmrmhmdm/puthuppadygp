@@ -1,8 +1,6 @@
-
 #logo-name{
     text-shadow: 1px 1px 0px #ecc3c3, 2px 2px 0px #888888;
     background-image: linear-gradient(to right, rgb(7, 50, 190) , rgb(12, 172, 92));
-    /* font-family: 'Noto Sans Malayalam'; */
     border-radius: 10px;
     transition: transform 0.5s ease;
     font-family: "Baloo Chettan 2", sans-serif;
@@ -23,8 +21,8 @@
 #nav{
     /* background-color: rgb(114, 187, 235); */
     background-image: linear-gradient(to right, rgb(7, 75, 27) , rgb(210, 233, 231));
-    opacity: .8;
-    margin-top: 20px;
+    /* opacity: .8; */
+    margin-top: 5px;
     padding: 2px;
     font-family: cursive;
     margin-left: 10px;
@@ -43,16 +41,7 @@
     margin-left: 10px;
     margin-right: 10px;
 }
-/* .ward{
-    background-image: linear-gradient(to right, rgb(87, 148, 206) , rgb(210, 233, 231));
-} */
-/* .card-container { */
-    /* width: calc(100% / 7 - 1rem); Adjust spacing as needed */
-    /* margin-bottom: 1rem; Adjust spacing between rows as needed */
-  /* } */
-/* .about{
-    background-image: linear-gradient(to right, rgb(87, 148, 206) , rgb(210, 233, 231));
-} */
+
 
 .navbar-nav .nav-link {
     color: white;
