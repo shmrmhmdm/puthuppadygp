@@ -70,3 +70,9 @@
     background-image: linear-gradient(to right, #abcfda , #92bfdb);
     text-align: center;
   }
+  #news{
+    background-color: yellow;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
